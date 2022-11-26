@@ -26,7 +26,7 @@
 
 <br>
 
-<h2>Dashatars Are Here 🥳!</h2>
 <div align="center">
-  <img src="https://docs.flutter.dev/assets/images/dash/Dashatars.png" alt="Dashatars"/>
+  <h2>Dashatars Are Here 🥳!</h2>
+  <img src="https://raw.githubusercontent.com/fluttermeorg/.github/main/profile/dashatars.png" alt="Dashatars"/>
 </div>
