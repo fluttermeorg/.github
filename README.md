@@ -8,5 +8,5 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fluttermeorg/.github/main/profile/dashatars.png" alt="Dashatars"/>
+  <img src="https://raw.githubusercontent.com/fluttermeorg/.github/main/profile/dashatar.png" alt="Dashatars"/>
 </div>
