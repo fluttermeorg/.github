@@ -33,7 +33,7 @@
 
 <div align="center">
   <h2>Contributors 🧑‍🤝‍🧑</h2>
-  <a href="https://github.com/fluttermeorg/flutterme_website/graphs/contributors">
+  <a href="https://github.com/orgs/fluttermeorg/people">
     <img src="https://contrib.rocks/image?repo=fluttermeorg/flutterme_website" alt="Dashatars"/>
   </a>
 </div>
