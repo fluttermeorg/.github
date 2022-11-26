@@ -5,7 +5,7 @@
 
 <br>
 
-<h2>Purpose📝</h2>
+<h2>Purpose 📝</h2>
 <p>
   Flutterme was created with the sole goal of teaching, collaborating and growing skills not just in cross-platform development with flutter, but
   in software ecosystem at large. We plan to achieve a high standard quality of education in flutter and to guide young developers or migrates to flutter
@@ -14,7 +14,7 @@
 
 <br>
 
-<h2>Goals🥅</h2>
+<h2>Goals 🥅</h2>
 <ul>
   <li>High standard quality of education</li>
   <li>Create smooth pathway and guide to young flutter developers</li>
@@ -29,4 +29,11 @@
 <div align="center">
   <h2>Dashatars Are Here 🥳!</h2>
   <img src="https://raw.githubusercontent.com/fluttermeorg/.github/main/profile/dashatars.png" alt="Dashatars"/>
+</div>
+
+<div align="center">
+  <h2>Contributors 🧑‍🤝‍🧑</h2>
+  <a href="https://github.com/fluttermeorg/flutterme_website/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=fluttermeorg/flutterme_website" alt="Dashatars"/>
+  </a>
 </div>
