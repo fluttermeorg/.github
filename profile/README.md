@@ -1,15 +1,14 @@
 <h1>Flutterme</h1>
 <p>
-  An open source flutter learning organization made by the community for the community. Also associated with creating plugins, blog posts and more!!!
+  An open-source flutter learning organization made by the community for the community. Also associated with creating plugins, blog posts and more!!!
 </p>
 
 <br>
 
 <h2>Purpose 📝</h2>
 <p>
-  Flutterme was created with the sole goal of teaching, collaborating and growing skills not just in cross-platform development with flutter, but
-  in software ecosystem at large. We plan to achieve a high standard quality of education in flutter and to guide young developers or migrates to flutter
-  ecosystem.
+  Flutterme was created with the sole goal of teaching, collaborating and growing skills not just in cross-platform development with flutter, but in the software
+  ecosystem at large. We plan to achieve a high standard of quality education in flutter and to guide young developers or migrants to the flutter ecosystem.
 </p>
 
 <br>
