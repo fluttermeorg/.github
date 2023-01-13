@@ -20,7 +20,7 @@
   <li>Create useful blog posts to solve daily bugs issues</li>
   <li>Provide most useful plugins</li>
   <li>Create solutions to flutter open issues as much as possible</li>
-  <li>Work with flutter team to buiding a better and more stable <b>*Flutter*</b></li>
+  <li>Work with flutter team to building a better and more stable <b>*Flutter*</b></li>
 </ul>
 
 <br>
