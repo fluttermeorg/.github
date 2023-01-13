@@ -15,12 +15,12 @@
 
 <h2>Goals 🥅</h2>
 <ul>
-  <li>High standard quality of education</li>
-  <li>Create smooth pathway and guide to young flutter developers</li>
-  <li>Create useful blog posts to solve daily bugs issues</li>
-  <li>Provide most useful plugins</li>
-  <li>Create solutions to flutter open issues as much as possible</li>
-  <li>Work with flutter team to building a better and more stable <b>*Flutter*</b></li>
+  <li>Providing high standard quality of software development education.</li>
+  <li>Creating a smooth pathway, road-maps and guide for young flutter developers.</li>
+  <li>Creating educational blog posts to solve daily problems within the software eco.</li>
+  <li>Building useful flutter packages and dart plugins.</li>
+  <li>Creating solutions to flutter open issues and bugs as much as possible.</li>
+  <li>Work with flutter team and related projects to build a better and more stable <b>Flutter</b>.</li>
 </ul>
 
 <br>
